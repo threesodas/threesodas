@@ -14,6 +14,7 @@ i am not spooder.
 c# is my favorite note.<br>
 [lucy sim 3](https://github.com/threesodas/lucy-simulator-nostalgic)<br>
 [wpf calculator](https://github.com/threesodas/wpf-calculator)<br>
+[notable salt](https://github.com/threesodas/notablesalt)<br>
 i dont play moosik.
 ## i have soshal medya
 and u can say hi i think<br>
