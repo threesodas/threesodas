@@ -1,5 +1,6 @@
 [My website (Glitch host)](https://threesodas.glitch.me)<br>
 [My website (purchased domain)](https://threesodas.xyz)<br>
+![Visitors](https://api.visitorbadge.io/api/visitors?user=threesodas&repo=threesodas&label=vizzies&countColor=%23263759)
 # Threesodas
 5 years of programming. Started in 2017 with C#.<br>
 I never learned to program in school, it's all self-taught,<br>so I'm not as smart as you might think.<br>
